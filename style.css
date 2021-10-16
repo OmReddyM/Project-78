@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(31, 136, 255);
+}
+button{
+    background-color: rgb(209, 80, 80);
+}
+button:hover{
+    background-color: rgb(189, 60, 60); 
+}
+h1{
+    color: chartreuse;
+}  
